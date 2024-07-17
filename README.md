@@ -1,17 +1,5 @@
-<h1 align="center">
-  <a href="https://youtu.be/SoLUaoV-Cu4"><img src="https://github.com/TrashRobotics/CVbot/blob/main/img/robot.jpeg" alt="Робот для работы с openCV" width="800"></a>
-  <br>
-	Простой робот для работы с openCV
-  <br>
-</h1>
-
-<p align="center">
-  <a href="https://github.com/TrashRobotics/CVbot/blob/main/README.md">Русский</a> •
-  <a href="https://github.com/TrashRobotics/CVbot/blob/main/README-en.md">English(Английский)</a> 
-</p>
-
 ## Основные детали тележки
-* orange pi zero 512мб;
+* repka pi 3;
 * веб-камера;
 * usb-разветвитель или преобразователь логических уровней;
 * usb-ttl преобразователь;
